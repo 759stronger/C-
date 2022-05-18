@@ -1,0 +1,6 @@
+﻿  4.26.cpp
+  函数.cpp
+  数组.cpp
+  源.cpp
+数组.obj : error LNK2005: main 已经在 4.26.obj 中定义
+D:\库\Project1\x64\Release\Project1.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
