@@ -1,11 +1,21 @@
 ﻿  test.cpp
-D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(390,24): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(398,25): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(363,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(228,34): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(228,23): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(232,30): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(232,19): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(92,12): warning C4477: “printf”: 格式字符串“%4d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
-D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(29,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(751,24): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(759,25): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(724,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(477,23): warning C4267: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(477,23): warning C4267:         with
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(477,23): warning C4267:         [
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(477,23): warning C4267:             _Ty=int
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(477,23): warning C4267:         ]
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(394,22): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(394,22): warning C4267:         with
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(394,22): warning C4267:         [
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(394,22): warning C4267:             _Ty=int
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(394,22): warning C4267:         ]
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(397,21): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(397,21): warning C4267:         with
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(397,21): warning C4267:         [
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(397,21): warning C4267:             _Ty=int
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(397,21): warning C4267:         ]
+D:\代码-总\高阶数据结构\图\Graph\Graph\Graph.h(30,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
   Graph.vcxproj -> D:\代码-总\高阶数据结构\图\Graph\x64\Debug\Graph.exe

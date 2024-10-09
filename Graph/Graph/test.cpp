@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
-	matrix::TestGraphMinTree();
+	//matrix::TestGraphMinTree();
+	matrix::TestFloydWarShall();
 	return 0;
 }
